@@ -1,0 +1,122 @@
+ /*                               header css */
+ 
+ .banner{
+display: flex;
+background: rgba(229, 84, 115, 0.10);
+padding-left: 200px;
+padding-right: 200px;
+}
+.banner-content{
+padding-top: 200px;
+}
+
+.btn-primary{
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+border: none;
+}
+                             /* main  */
+
+ .featured-flowers{
+    justify-content:center;
+    margin: 250px 250px;
+ }           
+ .featured-flowers-container{
+display: flex;
+
+ }               
+ .section-title{
+padding-left: 200px;
+
+ }
+
+
+ .hot-deal{
+display: flex;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+padding: 300px 300px;
+ }
+ .instagram-pics-container{
+    display: flex;
+    margin: 250px;
+    gap: 10px;
+
+ }
+ .instagram-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+ }
+ .instagram-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+
+ }
+ .latest-deals{
+display: flex;
+background-image:url('../Flower Asset/Rectangle\ 9.png') ;
+background-repeat: no-repeat;
+justify-content: center;
+margin:0px 100px ;
+
+ }
+ .content{
+padding: 150px 4px 40px 30px;
+
+
+ }
+ .subscribe-btn{
+
+padding:300px 100px 50px 200px;
+
+
+ }
+.form-box{
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+height: 55px;
+
+
+
+}
+.latest-deals-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+}
+.latest-deals-description{
+
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
